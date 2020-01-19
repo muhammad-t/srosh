@@ -1,0 +1,8 @@
+pub mod kingston {
+    pub mod samsung {
+        pub fn android () {
+                println!("Me library package me hoon!");
+
+        }
+    }
+}
